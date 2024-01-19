@@ -82,6 +82,11 @@ a {
     font-weight: 800;
     font-size: 50px;
 }
+@media (max-width: 1200px) {
+    .texto-cargo {
+        font-size: 40px;
+    }
+}
 .texto-inspira {
     font-weight: 200;
     font-size: 1.25rem;
