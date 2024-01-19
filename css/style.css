@@ -212,8 +212,8 @@ a {
 }
 @media (max-width: 1200px) {
     .texto-descrip {
-        margin-left: 6em;
-        margin-right: 6em;
+        margin-left: 1em;
+        margin-right: 1em;
     }
 }
 @media (min-width: 768px) {
